@@ -1,4 +1,4 @@
-# Prezent dla informatyka
+# Prezent dla informatyka[^1]
 
 Powód powstania tego repo jest prosty "_Ej, ale może zrób coś, żeby kobietom informatyków podpowiedzieć, co im kupić._"  
 Dla zainteresowanych edycją: Contributing.md
@@ -24,3 +24,6 @@ Dla zainteresowanych edycją: Contributing.md
 
 ## Niematerialne
 
+
+
+[^1]: Dlaczego dla informatyka, zawężając grupę docelową tylko do facetów? Nie pytałem, ale dokładnie tak brzmiała prośba, która za tym repo stoi.
