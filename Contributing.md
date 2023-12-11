@@ -14,3 +14,15 @@ Szybkie zasady, nie obiecuję niezmienności w czasie.
 W razie wątpliwości, mamy dyskusje pod PR i inne mechanizmy GitHuba.
 
 Lista kategorii prawdopodobnie będzie ulegać zmianie w miarę przybywania wpisów.
+
+
+Przykład:
+
+## Zabawki
+### Flipper Zero
+- Urządzenie do hakowania urządzeń z komunikacją radiową.
+- 1000PLN
+- https://shop.flipperzero.one/
+- UE
+- Dla każdego
+- Prezent z kategorii IT, można spodziewać się, że obdarowany będzie wszystkim pokazywać zdalne otwieranie szlabanów i wlewów paliwa w Teslach.
