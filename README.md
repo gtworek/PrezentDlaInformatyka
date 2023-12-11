@@ -13,6 +13,14 @@ Dla zainteresowanych edycją: Contributing.md
 - Dla każdego, kto ma jakiekolwiek zapędy do manualnych prac
 - Ostrożnie z kupowaniem narzędzi, można łatwo zduplikować już posiadane
 
+### Zestaw narzędzi Xiaomi MiJia Wiha
+- Zestaw wysokiej jakości narzędzi do precyzyjnych urządzeń/elektroniki. Trochę skromniejsza alternatywa dla zestawu powyżej
+- 69PLN
+- https://www.ceneo.pl/106921151
+- Polska / kilka dni
+- Dla każdego, kto ma jakiekolwiek zapędy do manualnych prac
+- Ostrożnie z kupowaniem narzędzi, można łatwo zduplikować już posiadane
+
 ### Yubico YubiKey 5-nano
 - Klucz USB do uwierzytelniania wieloskładnikowego. Mocno informatyczne, jeżeli obdarowany nie posiada jeszcze, to naprawdę warto dla szeroko rozumianego bezpieczeństwa danych.
 - 355PLN
