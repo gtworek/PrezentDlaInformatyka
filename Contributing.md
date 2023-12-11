@@ -26,3 +26,5 @@ Przykład:
 - UE
 - Dla każdego
 - Prezent z kategorii IT, można spodziewać się, że obdarowany będzie wszystkim pokazywać zdalne otwieranie szlabanów i wlewów paliwa w Teslach.
+
+Jeżeli ktoś chce dostęp do zatwierdzania PR, proszę o kontakt :)
