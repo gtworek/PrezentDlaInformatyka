@@ -13,7 +13,7 @@ Dla zainteresowanych edycją: Contributing.md
 - Dla każdego, kto ma jakiekolwiek zapędy do manualnych prac
 - Ostrożnie z kupowaniem narzędzi, można łatwo zduplikować już posiadane
 
-### Zestaw narzędzi Xiaomi MiJia Wiha
+### Zestaw narzędzi Xiaomi Mi Wiha
 - Zestaw wysokiej jakości narzędzi do precyzyjnych urządzeń/elektroniki. Trochę skromniejsza alternatywa dla zestawu powyżej
 - 69PLN
 - https://www.ceneo.pl/106921151
