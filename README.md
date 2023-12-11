@@ -27,7 +27,7 @@ Dla zainteresowanych edycją: Contributing.md
 ### Szkolenia
 - Szkolenia IT, najlepiej online. Wybór jest spory, ale jako jeden z trenerów wskazałbym kurs naprawdę dobrze wypełniony wiedzą.
 - 490PLN
-- https://https://sekurak.academy/
+- https://sekurak.academy/
 - Polska, online / natychmiast
 - Dla każdego.
 - Inne szkolenia też nie są złe! Można zawsze dopytać.
