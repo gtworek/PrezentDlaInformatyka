@@ -5,8 +5,8 @@ Szybkie zasady, nie obiecuję niezmienności w czasie.
 ## Kategoria
 ### Nazwa
 - Parę słów opisu
-- Orientacyjna łączna cena (zwłaszcza dla zakupów spoza UE)
-- Link(i) do zakupu (priorytet: PL/EU/Świat)
+- Orientacyjna **łączna** cena (zwłaszcza dla zakupów spoza UE)
+- Link(i) do zakupu (priorytet: PL/EU/Świat).
 - Kraj wysyłki / czas dostawy
 - Jeżeli nie dla każdego, to dla kogo
 - Opcjonalne uwagi wychodzące poza ramy powyżej
