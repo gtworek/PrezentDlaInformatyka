@@ -11,6 +11,6 @@ Szybkie zasady, nie obiecuję niezmienności w czasie.
 - Jeżeli nie dla każdego, to dla kogo
 - Opcjonalne uwagi wychodzące poza ramy powyżej
 
-W razie wątpliwości, mamy dyskusje pod PR.
+W razie wątpliwości, mamy dyskusje pod PR i inne mechanizmy GitHuba.
 
 Lista kategorii prawdopodobnie będzie ulegać zmianie w miarę przybywania wpisów.
