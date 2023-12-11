@@ -21,6 +21,14 @@ Dla zainteresowanych edycją: Contributing.md
 - Dla każdego, kto ma jakiekolwiek zapędy do manualnych prac
 - Ostrożnie z kupowaniem narzędzi, można łatwo zduplikować już posiadane
 
+### Multitool Leatherman
+- Klasyczny i uznany multitool. Istnieje wiele wersji różniących się znacząco ceną, ale nawet "tańsze" modele będą świetne.
+- 250PLN+
+- https://www.ceneo.pl/41382926
+- Polska / kilka dni
+- Dla każdego, kto ma jakiekolwiek zapędy do manualnych prac
+- Ostrożnie z kupowaniem narzędzi, można łatwo zduplikować już posiadane
+
 ### Yubico YubiKey 5-nano
 - Klucz USB do uwierzytelniania wieloskładnikowego. Mocno informatyczne, jeżeli obdarowany nie posiada jeszcze, to naprawdę warto dla szeroko rozumianego bezpieczeństwa danych.
 - 355PLN
@@ -40,6 +48,8 @@ Dla zainteresowanych edycją: Contributing.md
 - Dla każdego.
 - Inne szkolenia też nie są złe! Można zawsze dopytać.
 
+## Inne listy
+- https://newsletter.pragmaticengineer.com/p/holiday-season-gift-ideas-for-techies
 
 
 [^1]: Dlaczego dla informatyka, zawężając grupę docelową tylko do facetów? Nie pytałem, ale dokładnie tak brzmiała prośba, która za tym zestawieniem stoi.
