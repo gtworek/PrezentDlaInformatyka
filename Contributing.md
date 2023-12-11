@@ -1,6 +1,7 @@
 Szybkie zasady, nie obiecuję niezmienności w czasie.
-1. Dodawanie wpisów przez Pull Request
-2. Względnie ścisłe trzymanie się formatki:
+1. Trzymamy (i edytujemy) wszystko w README.md - to tam trafią nieiformatyczni ;)
+2. Dodawanie wpisów mechanizmami Pull Request
+3. Względnie ścisłe trzymanie się formatki:
 
 ## Kategoria
 ### Nazwa
