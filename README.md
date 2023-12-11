@@ -24,6 +24,14 @@ Dla zainteresowanych edycją: Contributing.md
 
 ## Niematerialne
 
+### Szkolenia
+- Szkolenia IT, najlepiej online. Wybór jest spory, ale jako jeden z trenerów wskazałbym kurs naprawdę dobrze wypełniony wiedzą.
+- 490PLN
+- https://https://sekurak.academy/
+- Polska, online / natychmiast
+- Dla każdego.
+- Inne szkolenia też nie są złe! Można zawsze dopytać.
 
 
-[^1]: Dlaczego dla informatyka, zawężając grupę docelową tylko do facetów? Nie pytałem, ale dokładnie tak brzmiała prośba, która za tym repo stoi.
+
+[^1]: Dlaczego dla informatyka, zawężając grupę docelową tylko do facetów? Nie pytałem, ale dokładnie tak brzmiała prośba, która za tym zestawieniem stoi.
