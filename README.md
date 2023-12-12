@@ -1,7 +1,7 @@
 # Prezent dla informatyka[^1]
 
 Powód powstania tego repo jest prosty "_Ej, ale może zrób coś, żeby kobietom informatyków podpowiedzieć, co im kupić._"  
-Dla zainteresowanych edycją: Contributing.md
+Dodawać własne propozycje można, a nawet należy. W Contributing.md napisane jest jak to zrobić.
 
 ## Materialne
 
@@ -36,6 +36,14 @@ Dla zainteresowanych edycją: Contributing.md
 - Polska / kilka dni
 - Dla każdego, kto jeszcze takiego nie ma.
 - Wymaga portu USB-A - raczej jest w każdym komputerze. Wersja większa (mniej wygodna, Security Key NFC by Yubico) jest o połowę tańsza przy podobnej funkcjonalności.
+
+### Powerbank do laptopa
+- Powerbank umożliwiający doładowanie laptopa.
+- ~200PLN+
+- Na przykład https://www.ceneo.pl/134396247
+- Polska / kilka dni
+- Dla kogoś, kto dużo czasu spędza z laptopem daleko od gniazdek.
+- Wybór jest spory, ale słowa klucze to: 65W lub więcej i jasno napisane w opisie, że może ładować laptopa. Punkty dodatkowe za przyzwoitą markę, np. Anker, Baseus. Jeszcze więcej punktów za kabel w zestawie.
 
 
 ## Niematerialne
