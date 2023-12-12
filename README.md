@@ -11,7 +11,7 @@ Dodawać własne propozycje można, a nawet należy. W Contributing.md napisane 
 - https://www.ceneo.pl/81763289
 - Polska / kilka dni
 - Dla każdego, kto ma jakiekolwiek zapędy do manualnych prac
-- Ostrożnie z kupowaniem narzędzi, można łatwo zduplikować już posiadane
+- Ostrożnie z kupowaniem narzędzi, można łatwo zduplikować już posiadane. Wersja bardziej "wypasiona", również warta polecenia to "iFixIt Pro Tech Toolkit".
 
 ### Zestaw narzędzi Xiaomi Mi Wiha
 - Zestaw wysokiej jakości narzędzi do precyzyjnych urządzeń/elektroniki. Trochę skromniejsza alternatywa dla zestawu powyżej
