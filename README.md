@@ -45,6 +45,15 @@ Dodawać własne propozycje można, a nawet należy. W Contributing.md napisane 
 - Dla kogoś, kto dużo czasu spędza z laptopem daleko od gniazdek.
 - Wybór jest spory, ale słowa klucze to: 65W lub więcej i jasno napisane w opisie, że może ładować laptopa. Punkty dodatkowe za przyzwoitą markę, np. Anker, Baseus. Jeszcze więcej punktów za kabel w zestawie.
 
+### Kubek termiczny
+- Duży kubek termiczny.
+- ~130PLN
+- Przykład
+  - https://kubekcontigo.pl/product-pol-67661-Kubek-termiczny-z-uchem-Contigo-Streeterville-z-wlasnym-napisem-grawer-Czarny.html
+  - https://kubekcontigo.pl/product-pol-67095-Kubek-termiczny-Contigo-West-Loop-2-0-z-wlasnym-napisem-grawer-grafitowy.html
+- Polska / kilka dni
+- Dla każdego, kto jeszcze takiego nie ma.
+- Bo jak wiadomo nikomu nie chce się chodzić po kawę kiedy kod czeka aby go napisać. Możliwa personalizacja grawerem który zmniejsza szansę na zmianę właściciela kubka w biurze.
 
 ## Niematerialne
 
