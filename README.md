@@ -55,6 +55,30 @@ Dodawać własne propozycje można, a nawet należy. W Contributing.md napisane 
 - Dla każdego, kto jeszcze takiego nie ma.
 - Bo jak wiadomo nikomu nie chce się chodzić po kawę kiedy kod czeka aby go napisać. Możliwa personalizacja grawerem który zmniejsza szansę na zmianę właściciela kubka w biurze.
 
+### Oryginalne wydanie Windows 3.0
+- Wersja instalacyjna na spersonalizowanych dyskietkach 5,25" w świątecznym opakowaniu
+- ~1500PLN
+- Polska / kilka dni
+- Dla konesera prawdziwej historii informatyki
+
+### Wierna replika komputera ENIAC
+- Wydrukowana na drukarce 3d, wewnatrz RPI 5 :)
+- ~1000PLN
+- Polska / kilkanaście dni
+- Dla geeka
+
+### Klaser z płytami CD/DVS z legalnym oprogramowaniem wszystkich dotychczasowych systemów operacyjnych począwszy od lat 80s (alternatywnie golden pendrive 4TB)
+- (Microsoft, Linux, MacOS, Unix, BSD, Atari, C64, i starsze... itp) Każda płyta z oryginalnym nadrukiem lub autorskim w przypadku braku oficjalnego wydania
+- 100 000 PLN + wiele godzin pracy
+- Polska / kilkanaście dni
+- Dla prawdziwego informatyka z bagażem doświadczeń.
+
+### Atari lub C64
+- Wraz z magnetofonem, joystikiem i kultowymi grami lat 80s
+- 1000 PLN
+- Polska / kilkanaście dni
+- Dla prawdziwego informatyka potrafiącego oddzielić czas pracy od przyjemności...
+
 ## Niematerialne
 
 ### Szkolenia
